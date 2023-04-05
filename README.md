@@ -1,5 +1,6 @@
 # common tools based on golang
 
+![build status](https://github.com/Fdslk/commontools/actions/workflows/go.yml/badge.svg)
 ## How to use this package
 
 * [download package](https://github.com/Fdslk/commontools/releases)
